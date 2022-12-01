@@ -163,7 +163,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-bezier2::before { content: "\f18c"; }
 .bi-bicycle::before { content: "\f18d"; }
 .bi-binoculars-fill::before { content: "\f18e"; }
-.bi-binoculars::before { content: "\f18f"; }
+.bi-binoculars::before { content: " \F405"; }
 .bi-blockquote-left::before { content: "\f190"; }
 .bi-blockquote-right::before { content: "\f191"; }
 .bi-book-fill::before { content: "\f192"; }
@@ -224,7 +224,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-braces::before { content: "\f1c9"; }
 .bi-bricks::before { content: "\f1ca"; }
 .bi-briefcase-fill::before { content: "\f1cb"; }
-.bi-briefcase::before { content: "\F32F"; }
+.bi-briefcase::before { content: "\F417"; }
 .bi-brightness-alt-high-fill::before { content: "\f1cd"; }
 .bi-brightness-alt-high::before { content: "\f1ce"; }
 .bi-brightness-alt-low-fill::before { content: "\f1cf"; }
@@ -312,7 +312,7 @@ url("./fonts/bootstrap-icons.woff?8d200481aa7f02a2d63a331fc782cfaf") format("wof
 .bi-camera2::before { content: "\f221"; }
 .bi-capslock-fill::before { content: "\f222"; }
 .bi-capslock::before { content: "\f223"; }
-.bi-card-checklist::before { content: " \F5C1"; }
+.bi-card-checklist::before { content: " \F407"; }
 .bi-card-heading::before { content: "\f225"; }
 .bi-card-image::before { content: "\f226"; }
 .bi-card-list::before { content: "\f227"; }
