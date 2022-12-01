@@ -1,2 +1,2 @@
 # curriculo 
-https://projetosnicole.github.io/curriculo/
+https://projetosnicole.github.io/curriculo-1/
